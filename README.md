@@ -2,11 +2,7 @@
 
 A comprehensive Applicant Tracking System (ATS) solution that combines a modern job tracking dashboard with an intelligent resume analysis tool. Built with React, Vite, Python (Flask), and AI.
 
-![ATS Resume Checker](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![React](https://img.shields.io/badge/React-19-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
+!https://github.com/AravindRyaligit/ATS/blob/main/Screenshot%202025-12-30%20170608.jpg
 ## Overview
 
 This project consists of two main components:
