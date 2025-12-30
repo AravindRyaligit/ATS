@@ -17,7 +17,7 @@ This project consists of two main components:
 - **Search & Sort**: Filter applications instantly by role or company; sort by date.
 - **File Management**: Attach specific CVs and cover letters to each application entry.
 
-
+![Screenshot 2025-12-30 170438.jpg](https://github.com/AravindRyaligit/ATS/blob/main/Screenshot%202025-12-30%20170438.jpg)
 
 
 ### 🧠 Resume Checker
