@@ -2,7 +2,6 @@
 
 A comprehensive Applicant Tracking System (ATS) solution that combines a modern job tracking dashboard with an intelligent resume analysis tool. Built with React, Vite, Python (Flask), and AI.
 
-![Screenshot 2025-12-30 170608.jpg](https://github.com/AravindRyaligit/ATS/blob/main/Screenshot%202025-12-30%20170608.jpg)
 ## Overview
 
 This project consists of two main components:
@@ -18,12 +17,16 @@ This project consists of two main components:
 - **Search & Sort**: Filter applications instantly by role or company; sort by date.
 - **File Management**: Attach specific CVs and cover letters to each application entry.
 
+![Screenshot 2025-12-30 170648.jpg](https://github.com/AravindRyaligit/ATS/blob/main/Screenshot%202025-12-30%20170648.jpg)
+
 ### 🧠 Resume Checker
 - **Precision Scoring**: Analyzes Skills (40%), Experience (30%), Education (15%), and Keywords (15%).
 - **AI Suggestions**: Uses Ollama (LLM) to generate specific, actionable text improvements for your resume.
 - **Keyword Analysis**: Extracts and highlights missing technical and soft skills from job descriptions.
 - **Multi-Format Support**: Parses both PDF and DOCX resume files.
 - **Detailed Reports**: Exports comprehensive analysis reports.
+
+![Screenshot 2025-12-30 170608.jpg](https://github.com/AravindRyaligit/ATS/blob/main/Screenshot%202025-12-30%20170608.jpg)
 
 ## Technology Stack
 
