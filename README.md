@@ -10,19 +10,19 @@ A comprehensive Applicant Tracking System (ATS) solution that combines a modern 
 ## Overview
 
 This project consists of two main components:
-1.  **JobTracker (Frontend)**: A React-based dashboard to organize your job search, track applications, and manage interview schedules.
-2.  **Resume Checker (Backend)**: A Python/Flask application that uses NLP and GenAI to analyze your resume against job descriptions, providing detailed scoring and optimization suggestions.
+1.  **JobTracker**: A React-based dashboard to organize your job search, track applications, and manage interview schedules.
+2.  **Resume Checker**: A Python/Flask application that uses NLP and GenAI to analyze your resume against job descriptions, providing detailed scoring and optimization suggestions.
 
 ## Features
 
-### 🖥️ JobTracker (Frontend)
+### 🖥️ JobTracker
 - **Application Tracking**: Log detailed application info (Company, Position, Status, Location, etc.).
 - **Smart Dashboard**: View usage stats and upcoming interviews at a glance.
 - **Data Persistence**: Uses IndexedDB for secure, local data storage.
 - **Search & Sort**: Filter applications instantly by role or company; sort by date.
 - **File Management**: Attach specific CVs and cover letters to each application entry.
 
-### 🧠 Resume Checker (Backend)
+### 🧠 Resume Checker
 - **Precision Scoring**: Analyzes Skills (40%), Experience (30%), Education (15%), and Keywords (15%).
 - **AI Suggestions**: Uses Ollama (LLM) to generate specific, actionable text improvements for your resume.
 - **Keyword Analysis**: Extracts and highlights missing technical and soft skills from job descriptions.
